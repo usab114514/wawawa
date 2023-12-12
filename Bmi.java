@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main  (String[] args) {
+    public static void Bmi  (String[] args) {
         Scanner sc = new Scanner(System.in);
 
- 	for(int i = 0;i<10000000000 ; i ++) {
+ 	for(int i = 0; i < 2 ; i++) {
 	System.out.print("Height : ");
         double height = Integer.parseInt(sc.nextLine());
         System.out.print("Wight : ");
